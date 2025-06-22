@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="180" align="center" valign="middle" style="padding-right: 20px;">
+    <td width="300" align="center" valign="middle" style="padding-right: 20px;">
       <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="border-radius: 15px;" />
     </td>
     <td align="left" valign="middle" style="font-family: Arial, sans-serif;">
