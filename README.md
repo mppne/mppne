@@ -1,13 +1,13 @@
 <table>
   <tr>
-    <td width="300" align="center" valign="middle" style="padding-right: 20px;">
+    <td width="350" align="center" valign="middle" style="padding-right: 20px;">
       <img height="240" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="border-radius: 15px;" />
     </td>
     <td align="left" valign="middle" style="font-family: Arial, sans-serif;">
       <strong style="font-size: 18px;">Me chamo Marcos, tenho 22 anos e curso Sistemas de Informação na Una.</strong><br><br>
       - 🔧 Trabalho como técnico em manutenção de notebooks<br>
       - 🌱 Atualmente estudando para atuar como desenvolvedor Full-Stack<br>
-      - 🎮 No tempo livre gosto de jogar e criar projetos pessoais<br><br>
+      - 🎮 No tempo livre gosto de jogar e criar projetos pessoais<br>
       <hr>
       <div align="center">
         <strong>🛠️ Linguagens/Ferramentas que utilizo</strong>
@@ -27,3 +27,4 @@
     </td>
   </tr>
 </table>
+
